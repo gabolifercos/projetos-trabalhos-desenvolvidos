@@ -34,6 +34,6 @@ Estruturas de controle, iterações e manipulação de vetores.
 
 Construção de lógica condicional de baixo nível.
 
-🚀 Como Executar
+Como Executar
 
 Para testar as resoluções, clone este repositório em sua máquina local e navegue até a pasta da linguagem desejada, executando os arquivos diretamente em seu terminal ou ambiente de desenvolvimento (IDE).
