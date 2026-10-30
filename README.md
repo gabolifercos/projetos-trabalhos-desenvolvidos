@@ -1,39 +1,42 @@
-# projetos-trabalhos-desenvolvidos
-Esse repositório contém os diversos projetos e trabalhos que foram desenvolvidos por Gabriel ao longo de sua carreira e graduação na área de tecnologia.
-Repositório: Algoritmos
+Projetos e Estudos — Gabriel Oliveira
+Repositório dedicado aos meus trabalhos de Ciência da Computação na FIAP, projetos pessoais e exercícios desenvolvidos durante meus estudos.
 
-Sobre: 
+Este espaço acompanha minha evolução na programação: da prática dos fundamentos à construção de soluções para problemas reais.
+Sobre mim
+Sou estudante de Ciência da Computação na FIAP e tenho interesse em desenvolvimento de software, inteligência artificial e cibersegurança. Busco desenvolver uma base sólida em lógica, programação e bancos de dados, aplicando o que aprendo em projetos práticos.
+O que você vai encontrar
+- Trabalhos da faculdade: atividades, desafios e projetos desenvolvidos nas disciplinas do curso, individualmente ou em grupo.
+- Projetos pessoais: aplicações e experimentos criados por iniciativa própria, fora das atividades acadêmicas.
+- Exercícios e estudos: prática de lógica de programação, algoritmos, estruturas de dados e outros conteúdos.
+Organização
+Os projetos serão adicionados gradualmente. A organização prevista é:
+Pasta	Conteúdo
+faculdade/	Trabalhos acadêmicos organizados por semestre e disciplina.
+projetos-pessoais/	Projetos desenvolvidos fora da faculdade.
+estudos/	Exercícios, anotações e experimentos de aprendizagem.
 
-Este repositório contém todos os estudos e práticas de Gabriel Oliveira sobre a resolução de exercícios de algoritmos e estruturas de dados, utilizando as linguagens Python e C++.
 
-Domínio Técnico:
+Cada trabalho ou projeto ficará em sua própria pasta. Conforme necessário, terá um README com:
+- Objetivo e descrição do projeto.
+- Tecnologias utilizadas.
+- Instruções de instalação e execução.
+- Funcionalidades implementadas e próximos passos.
+- Aprendizados, dificuldades e decisões tomadas.
+- Autores e referências, quando houver.
+Áreas de estudo
+- Lógica de programação e algoritmos.
+- Python e desenvolvimento de software.
+- SQL e bancos de dados.
+- Git, GitHub e documentação.
+- Inteligência artificial aplicada à programação.
+- Fundamentos de cibersegurança.
+As linguagens e ferramentas utilizadas podem variar de acordo com a proposta de cada projeto e serão informadas na documentação correspondente.
+Como explorar
+1. Escolha uma das pastas do repositório.
+2. Acesse o trabalho ou projeto de seu interesse.
+3. Consulte o README da pasta para entender a proposta e, quando aplicável, executar o código.
+Evolução e aprendizado
+Este repositório é construído ao longo da minha formação. Os projetos podem receber melhorias conforme eu aprofundo meus conhecimentos, com atenção à clareza do código, organização e documentação.
 
-O principal objetivo deste espaço é consolidar e demonstrar proficiência em lógica de programação e engenharia de software.
-
-Domínio Total: Possuo compreensão profunda e domínio absoluto sobre todos os códigos e scripts aqui disponibilizados.
-
-Clareza e Resolução: Sou plenamente capaz de explicar o funcionamento interno (under the hood), a lógica por trás de cada linha e o motivo da escolha das estruturas de dados de forma clara, técnica e resolutiva em qualquer etapa de avaliação, pair programming ou entrevista técnica.
-
-Construção Manual: Todos os algoritmos foram desenvolvidos, testados e refatorados manualmente para garantir a fixação sólida dos fundamentos.
-
-Estrutura do Repositório:
-
-/Python
-
-Fundamentos de lógica de programação.
-
-Manipulação eficiente de estruturas de dados nativas (Listas, Dicionários, Tuplas, Sets).
-
-Resolução de problemas algorítmicos e controle de fluxo.
-
-/CPP (C++)
-
-Fundamentos rígidos de C++ e tipagem estática.
-
-Estruturas de controle, iterações e manipulação de vetores.
-
-Construção de lógica condicional de baixo nível.
-
-Como Executar
-
-Para testar as resoluções, clone este repositório em sua máquina local e navegue até a pasta da linguagem desejada, executando os arquivos diretamente em seu terminal ou ambiente de desenvolvimento (IDE).
+Nos projetos em grupo, a documentação identificará os participantes e suas contribuições. Referências e ferramentas de apoio, incluindo IA quando utilizada, serão registradas quando relevantes para compreender o desenvolvimento.
+Gabriel Oliveira · Estudante de Ciência da Computação — FIAP
